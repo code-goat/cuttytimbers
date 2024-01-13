@@ -1,2 +1,0 @@
-CuttyTimbers.com
-Hugo sites
