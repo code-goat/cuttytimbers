@@ -1,4 +1,4 @@
-baseurl = "https://code-goat.github.io"
+baseurl = "https://github.com/code-goat/cuttytimbers.git"
 languageCode = "en-us"
 title = "CuttyTimbersMilling"
 #theme = "hugo-creative-theme"
